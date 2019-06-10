@@ -4,7 +4,7 @@ Dogs vs Cats classifier using CNN (dependency: keras)
 dataset: <a href="https://www.kaggle.com/c/dogs-vs-cats/data"></a>
 
 
-####dataset manually structured to:
+dataset manually structured to:
 
   <ul>
     <li>train:
